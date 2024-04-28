@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jqpython
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning python language
+- 💞️ I’m looking to collaborate on python applications
